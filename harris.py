@@ -1,5 +1,4 @@
 import cv2
-import numpy as np
 
 img_paths = ["./img/Sala1.jpg", "./img/Sala2.jpg", "./img/Sala3.jpeg"]
 
